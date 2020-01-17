@@ -1,0 +1,28 @@
+{
+    "files.exclude": {
+        "**/.awcache": true,
+        "**/.vs": true,
+        "**/bin": true,
+        "**/logs": true,
+        "**/obj": true,
+        "**/.git": true,
+        "**/*.tmp": true,
+        "**/._.DS_Store": true,
+    },
+    "files.watcherExclude": {
+        "**/bin/**": true,
+        "**/obj/**": true,
+        "**/.git": true,
+        "**/*.tmp": true,
+        "**/._.DS_Store": true,
+    },
+    "search.exclude": {
+        "**/.awcache": true,
+        "**/.vs": true,
+        "**/bin": true,
+        "**/obj": true,
+        "**/.git": true,
+        "**/*.tmp": true,
+        "**/._.DS_Store": true,
+    }
+}
